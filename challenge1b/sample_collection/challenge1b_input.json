@@ -1,0 +1,17 @@
+{
+  "documents": [
+    {"filename": "South of France - Cities.pdf"},
+    {"filename": "South of France - Cuisine.pdf"},
+    {"filename": "South of France - History.pdf"},
+    {"filename": "South of France - Restaurants and Hotels.pdf"},
+    {"filename": "South of France - Things to Do.pdf"},
+    {"filename": "South of France - Tips and Tricks.pdf"},
+    {"filename": "South of France - Traditions and Culture.pdf"}
+  ],
+  "persona": {
+    "role": "Travel Planner specializing in European destinations with focus on cultural experiences and culinary tourism"
+  },
+  "job_to_be_done": {
+    "task": "Plan a comprehensive 7-day cultural and culinary itinerary for South of France, including must-visit cities, traditional restaurants, cultural sites, and local experiences"
+  }
+} 

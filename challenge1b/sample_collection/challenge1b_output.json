@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "input_documents": [
+      "South of France - Cities.pdf",
+      "South of France - Cuisine.pdf",
+      "South of France - History.pdf",
+      "South of France - Restaurants and Hotels.pdf",
+      "South of France - Things to Do.pdf",
+      "South of France - Tips and Tricks.pdf",
+      "South of France - Traditions and Culture.pdf"
+    ],
+    "persona": "Travel Planner specializing in European destinations with focus on cultural experiences and culinary tourism",
+    "job_to_be_done": "Plan a comprehensive 7-day cultural and culinary itinerary for South of France, including must-visit cities, traditional restaurants, cultural sites, and local experiences",
+    "processing_timestamp": "2024-01-15T10:30:00"
+  },
+  "extracted_sections": [
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Traditional Provençal Restaurants",
+      "importance_rank": 1,
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Cities.pdf", 
+      "section_title": "Nice: Cultural Capital of the Riviera",
+      "importance_rank": 2,
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Cultural Experiences and Local Markets",
+      "importance_rank": 3,
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Festivals and Cultural Events",
+      "importance_rank": 4,
+      "page_number": 7
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Roman Heritage and Historic Sites",
+      "importance_rank": 5,
+      "page_number": 4
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "The region's culinary traditions center around fresh local ingredients including olive oil, herbs de Provence, and Mediterranean seafood. Traditional restaurants in Provence focus on simple preparation methods that highlight natural flavors...",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "Nice offers an exceptional blend of French and Mediterranean influences, with its Old Town (Vieux Nice) featuring narrow streets filled with local markets, artisan shops, and traditional bistros. The city's cultural scene includes world-class museums...",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Things to Do.pdf", 
+      "refined_text": "Local markets operate throughout the week in different towns, offering opportunities to experience authentic Provençal culture. The Cours Saleya market in Nice and the Saturday market in Aix-en-Provence are particularly renowned...",
+      "page_number": 2
+    }
+  ]
+} 
